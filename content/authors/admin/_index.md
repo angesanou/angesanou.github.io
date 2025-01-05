@@ -55,7 +55,7 @@ interests:
 education:
   - area: BSc Statistical Analysis 
     institution: Université Joseph KI-ZERBO
-    date_start: In progress
+    date_start: 2023-11-01
 #   date_end: 
     summary: |
       Versatile training in statistical techniques, data analysis, computer science and economics. 
@@ -184,4 +184,4 @@ languages:
 
 ## About Me
 
-Ange is a student at Joseph Ki Zerbo University. Her studies focus on statistical analysis.
+Ange is a student at Joseph Ki Zerbo University. Her studies focus on stINtistical analysis.
