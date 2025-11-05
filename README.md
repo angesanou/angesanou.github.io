@@ -1,31 +1,44 @@
-#BREVE PRESENTATION
+# 👩🏽‍💻 Brève présentation
 
+Je suis **analyste statisticienne** en troisième année de formation à l’**Institut Supérieur des Sciences de la Population** de l’Université **Joseph Ki-Zerbo**.
+Spécialisée dans l’**analyse et le traitement des données**, je possède une solide capacité d’interprétation et une réelle passion pour la **science des données**.
 
-Je suis analyste statisticienne en troisième année de formation à l'institut superieur des sciences et de la population de l'université Joseph KI ZERBO. Je suis spécialisée dans l'analyse et le traitement des données avec une bonne capacité d'interpretation des données. La science des données me passionne car elle permet de faire des modelisations qui servent à la prediction, puis de mettre en place des systèmes basés sur l'intelligence artificielle capable de revolutionner le monde. Par ailleur ces filières ont fait de moi une collectrice de données à travers la conception des questionnaires et des enquêtes terrain. J'ai l'esprit d'equipe et le sens de la responsabilité car ayant diriger plusieurs projets de travail, un club d'anglais et j'ai egalement été déléguée adjointe de classe plusieurs fois.
+Ce domaine me fascine car il permet de modéliser, de prédire et de développer des systèmes d’**intelligence artificielle** capables de transformer durablement nos sociétés.
+En parallèle, mon parcours m’a permis d’acquérir une **expérience pratique en collecte de données**, à travers la conception de questionnaires et la conduite d’enquêtes de terrain.
 
-#COMPETENCES CLES
+J’apprécie le travail collaboratif, la gestion de projets et la responsabilité — des qualités que j’ai renforcées en dirigeant plusieurs initiatives : projets étudiants, un club d’anglais, et en occupant le poste de déléguée adjointe à plusieurs reprises.
 
-En ce qui concerne mes compétences, j'ai des bases dans la manipulaion 
--- des logiciels d'analyse et de traitement de données comme Rstudio, SPSS, STATA, Python, Excel avancé.
+---
 
-J'ai egalement des notions dans la cartographie que je mets en pratique à l'aide du
---logiciel QGIS
+# 🧠 Compétences clés
 
-Je suis capable de deployer des questionnaires grace aux 
---outils suivant : CS Pro, Kobotoolbox, Servey CTO, Django
+* Analyse statistique et traitement de données : **RStudio**, **SPSS**, **STATA**, **Python**, **Excel avancé**
+* Gestion et structuration de bases de données : **Access**, **SQL Server**
+* Conception et déploiement de questionnaires : **CSPro**, **KoboToolbox**, **SurveyCTO**, **Django**
+* Cartographie et représentation spatiale : **QGIS**
+* Rédaction et présentation de rapports professionnels : **Word**, **LaTeX**, **PowerPoint**
 
-j'ai réalisé plusieurs projets qui consistaient à traiter des Bases de données relationnelles avec les
---logiciels de traitement suivant : Access, SQL server
+---
 
-Par ailleur en ce qui concerne la présentation et l'esthétique des rapports de travail j'utilise les :
+# 🚀 Projets réalisés
 
---Logiciels de traitement de texte : Word, latex 
---Logiciels de traitement de présentation : PowerPoint
+Voici quelques-uns de mes projets :
 
-Des liens vers mes projets 
-Ces liens suivants vous permettront de voir quelques uns de mes projets phares:
+* [Traitement d’une enquête (CSPro)](https://github.com/angesanou/angesanou.github.io/tree/main/TP_enqu%C3%AAte_Sanou_Ange)
+* [Conception d’un questionnaire CSPro](https://github.com/angesanou/angesanou.github.io/tree/main/Projet_Questionnaire_Cspro)
+* [Modélisation de processus avec la chaîne de Markov](https://github.com/angesanou/angesanou.github.io/tree/main/Model_de_Markov)
 
-*https://github.com/angesanou/angesanou.github.io/tree/main/TP_enqu%C3%AAte_Sanou_Ange
-*https://github.com/angesanou/angesanou.github.io/tree/main/Projet_Questionnaire_Cspro
-*https://github.com/angesanou/angesanou.github.io/tree/main/Model_de_Markov
+---
 
+# 🌱 Objectif professionnel
+
+Mettre mes compétences en **analyse de données** et en **intelligence artificielle** au service de projets qui contribuent au **développement durable** et à la **valorisation du potentiel agricole et humain** au Burkina Faso et en Afrique.
+
+---
+
+# 📫 Me contacter
+
+* **GitHub** : [@angesanou](https://github.com/angesanou)
+* **Email** : *angesnoeliesanou@gmail.com*
+* **LinkedIn : www.linkedin.com/in/sanou-ange-86b9b124a
+ 
