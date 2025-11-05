@@ -18,9 +18,13 @@ J’apprécie le travail collaboratif, la gestion de projets et la responsabilit
 * Cartographie et représentation spatiale : **QGIS**
 * Rédaction et présentation de rapports professionnels : **Word**, **LaTeX**, **PowerPoint**
 
+🏅 Badges et certifications Kaggle
 
-[![Kaggle Badge](https://www.kaggle.com/certification/badges/angessanou/6)](https://www.kaggle.com/angesanou)
-
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-angesanou-blue?logo=kaggle)](https://www.kaggle.com/angessanou)
+![Competitions](https://img.shields.io/badge/Kaggle-Competition%20Contributor-orange?logo=kaggle)
+![Notebooks](https://img.shields.io/badge/Kaggle-Notebook%20Expert-blue?logo=kaggle)
+![Datasets](https://img.shields.io/badge/Kaggle-Dataset%20Contributor-green?logo=kaggle)
+![Discussions](https://img.shields.io/badge/Kaggle-Discussion%20Participant-purple?logo=kaggle)
 
 
 ---
@@ -32,10 +36,10 @@ Voici quelques-uns de mes projets :
 * [Traitement d’une enquête (CSPro)](https://github.com/angesanou/angesanou.github.io/tree/main/TP_enqu%C3%AAte_Sanou_Ange)
 * [Conception d’un questionnaire CSPro](https://github.com/angesanou/angesanou.github.io/tree/main/Projet_Questionnaire_Cspro)
 * [Modélisation de processus avec la chaîne de Markov](https://github.com/angesanou/angesanou.github.io/tree/main/Model_de_Markov)
-* 
+  
 ### 🧠 [Titanic - L’apprentissage automatique à partir d’un désastre](https://www.kaggle.com/code/angessanou/getting-started-with-titanic?scriptVersionId=248941092)
-**Objectif :*  Prédire la survie sur le Titanic et se familiariser avec les bases du ML  
-**Techno utilisées :* Python, Pandas, Numpy, os.  
+*Objectif :*  Prédire la survie sur le Titanic et se familiariser avec les bases du ML  
+*Techno utilisées :* Python, Pandas, Numpy, os.  
 ---
 
 # 🌱 Objectif professionnel
