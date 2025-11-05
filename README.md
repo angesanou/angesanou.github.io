@@ -19,7 +19,7 @@ J’apprécie le travail collaboratif, la gestion de projets et la responsabilit
 * Rédaction et présentation de rapports professionnels : **Word**, **LaTeX**, **PowerPoint**
 
 
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/angesanou)
+[![Kaggle Badge](https://www.kaggle.com/certification/badges/angessanou/6)](https://www.kaggle.com/angesanou)
 
 
 
@@ -34,8 +34,8 @@ Voici quelques-uns de mes projets :
 * [Modélisation de processus avec la chaîne de Markov](https://github.com/angesanou/angesanou.github.io/tree/main/Model_de_Markov)
 * 
 ### 🧠 [Titanic - L’apprentissage automatique à partir d’un désastre](https://www.kaggle.com/code/angessanou/getting-started-with-titanic?scriptVersionId=248941092)
-**Objectif :**  Prédire la survie sur le Titanic et familiarisez-vous avec les bases du ML  
-**Techno utilisées :** Python, Pandas, Numpy, os.  
+**Objectif :*  Prédire la survie sur le Titanic et se familiariser avec les bases du ML  
+**Techno utilisées :* Python, Pandas, Numpy, os.  
 ---
 
 # 🌱 Objectif professionnel
