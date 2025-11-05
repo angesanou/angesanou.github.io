@@ -20,11 +20,8 @@ J’apprécie le travail collaboratif, la gestion de projets et la responsabilit
 
 🏅 Badges et certifications Kaggle
 
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-angesanou-blue?logo=kaggle)](https://www.kaggle.com/angessanou)
-![Competitions](https://img.shields.io/badge/Kaggle-Competition%20Contributor-orange?logo=kaggle)
-![Notebooks](https://img.shields.io/badge/Kaggle-Notebook%20Expert-blue?logo=kaggle)
-![Datasets](https://img.shields.io/badge/Kaggle-Dataset%20Contributor-green?logo=kaggle)
-![Discussions](https://img.shields.io/badge/Kaggle-Discussion%20Participant-purple?logo=kaggle)
+
+[![Kaggle Badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media)](https://www.kaggle.com/angessanou)
 
 
 ---
