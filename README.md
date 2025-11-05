@@ -18,7 +18,6 @@ Ces liens suivants vous permettront de voir quelques uns de mes projets phares:
 
 
 
-Tes coordonnées/profils sociaux
 
 
 2. Valorise tes projets
