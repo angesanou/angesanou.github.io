@@ -1,52 +1,24 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+Une présentation brève 
+Je suis analyste statisticienne en troisième année de formation à l'institut superieur des sciences et de la population de l'université Joseph KI ZERBO. Je suis spécialisée dans l'analyse et le traitement des données avec une bonne capacité d'interpretation des données. La science des données me passionne car elle permet de faire des modelisations qui servent à la prediction, puis de mettre en place des systèmes basés sur l'intelligence artificielle capable de revolutionner le monde. Par ailleur ces filières ont fait de moi une collectrice de données à travers la conception des questionnaires et des enquêtes terrain. J'ai l'esprit d'equipe et le sens de la responsabilité car ayant diriger plusieurs projets de travail, un club d'anglais et j'ai egalement été déléguée adjointe de classe plusieurs fois.
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
+Tes compétences clés (langages, frameworks, outils…)
+En ce qui concerne mes compétences, j'ai des bases dans la manipulaion des logiciels d'analyse et de traitement de données comme Rstudio, SPSS, STATA, Python, Excel avancé.
+J'ai egalement des notions dans la cartographie que je mets en pratique à l'aide du logiciel QGIS
+Je suis capable de deployer des questionnaires grace aux outils suivant : CS Pro, Kobotoolbox, Servey CTO, Django
+j'ai réalisé plusieurs projets qui consistaient à traiter des Bases de données relationnelles avec les logiciels de traitement suivant : Access, SQL server
 
-The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+Par ailleur en ce qui concerne la présentation et l'esthétique des rapports de travail j'utilise les :
+•Logiciels de traitement de texte : Word, latex 
+•	Logiciels de traitement de présentation : PowerPoint
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+Des liens vers mes projets 
+Ces liens suivants vous permettront de voir quelques uns de mes projets phares:
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+Tes coordonnées/profils sociaux
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+2. Valorise tes projets
+Rédige des READMEs clairs dans chaque dépôt : objectifs, installation, usage, exemple, technologies utilisées…
 
-## We ask you, humbly, to support this open source movement
-
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
-
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
-
-<!--
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
--->
-
-## Demo image credits
-
-- [Unsplash](https://unsplash.com)
-
-## Latest news
-
-<!--START_SECTION:news-->
-
-- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
-- [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
-- [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
-- [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
-- [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
-<!--END_SECTION:news-->
