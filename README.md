@@ -18,6 +18,11 @@ J’apprécie le travail collaboratif, la gestion de projets et la responsabilit
 * Cartographie et représentation spatiale : **QGIS**
 * Rédaction et présentation de rapports professionnels : **Word**, **LaTeX**, **PowerPoint**
 
+
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/angesanou)
+
+
+
 ---
 
 # 🚀 Projets réalisés
@@ -27,7 +32,10 @@ Voici quelques-uns de mes projets :
 * [Traitement d’une enquête (CSPro)](https://github.com/angesanou/angesanou.github.io/tree/main/TP_enqu%C3%AAte_Sanou_Ange)
 * [Conception d’un questionnaire CSPro](https://github.com/angesanou/angesanou.github.io/tree/main/Projet_Questionnaire_Cspro)
 * [Modélisation de processus avec la chaîne de Markov](https://github.com/angesanou/angesanou.github.io/tree/main/Model_de_Markov)
-
+* 
+### 🧠 [Titanic - L’apprentissage automatique à partir d’un désastre](https://www.kaggle.com/code/angessanou/getting-started-with-titanic?scriptVersionId=248941092)
+**Objectif :**  Prédire la survie sur le Titanic et familiarisez-vous avec les bases du ML  
+**Techno utilisées :** Python, Pandas, Numpy, os.  
 ---
 
 # 🌱 Objectif professionnel
@@ -40,5 +48,6 @@ Mettre mes compétences en **analyse de données** et en **intelligence artifici
 
 * **GitHub** : [@angesanou](https://github.com/angesanou)
 * **Email** : *angesnoeliesanou@gmail.com*
+* **Kaggle** : https://www.kaggle.com/angessanou
 * **LinkedIn : www.linkedin.com/in/sanou-ange-86b9b124a
  
