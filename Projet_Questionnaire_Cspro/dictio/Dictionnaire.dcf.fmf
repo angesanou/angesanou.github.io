@@ -1,0 +1,32 @@
+﻿[FormFile]
+Version=CSPro 7.7
+Name=DONNEES_FF
+Label=Dictionnaire.dcf
+DefaultTextFont=-013 0000 0000 0000 0700 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+FieldEntryFont=0018 0000 0000 0000 0600 0000 0000 0000 0000 0000 0000 0000 0000 Courier New
+Type=OperatorControlled
+  
+[Dictionaries]
+File=.\données.dcf
+  
+[Form]
+Name=FORM000
+Label=données Level
+Level=1
+Size=0,0
+  
+  
+[EndForm]
+  
+[Level]
+Name=DONNEES_LEVEL
+Label=données Level
+  
+[Group]
+Required=Yes
+Name=DONNEES_LEVEL_FORM
+Label=données Level
+Form=1
+Max=1
+[EndGroup]
+  

@@ -1,0 +1,29 @@
+﻿[Dictionary]
+Version=CSPro 7.7
+Label=données
+Name=DONNEES_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+SecurityOptions=2A1690DB3DDCCD1158B24A3C9FE4B4505FEA3BC87F02AE2263B9775294742D9C
+
+[Level]
+Label=données Level
+Name=DONNEES_LEVEL
+
+[IdItems]
+
+[Item]
+Label=données Identification
+Name=DONNEES_ID
+Start=2
+Len=1
+DataType=Numeric
+
+[Record]
+Label=données Record
+Name=DONNEES_REC
+RecordTypeValue='1'
+RecordLen=1

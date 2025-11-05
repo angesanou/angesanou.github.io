@@ -1,0 +1,181 @@
+﻿---
+fileType: Question Text
+version: CSPro 7.7
+languages:
+  - name: EN
+    label: English
+styles:
+  - name: Normal
+    className: normal
+    css: |
+      font-family: Arial;font-size: 16px;
+  - name: Texte_question
+    className: heading1
+    css: |
+      font-family: Times New Roman;font-weight: bold;font-size: 16px;color: #000000;
+  - name: Texte_instruction
+    className: heading2
+    css: |
+      font-family: Times New Roman;font-style: italic;font-size: 14px;color: #ff0000;
+questions:
+  - name: DICTIONNAIRE_DICT.S0Q1
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1 heading2">﻿</span><span class="heading1">Quelle est la région de l'enquêté ?﻿</span><span class="instruction">﻿</span></p><p><span class="heading2">﻿Sélectionner le numéro correspondant à la région !﻿</span><span class="normal heading1 heading2" style="font-family: &quot;Times New Roman&quot;; font-size: 16px;">﻿</span><span class="instruction heading2" style="font-family: &quot;Times New Roman&quot;;"><font color="#ff0000">﻿</font></span><span class="normal heading2" style="font-family: &quot;Times New Roman&quot;;">﻿</span><span class="heading1 heading2" style="font-family: &quot;Times New Roman&quot;; font-size: 16px;"><b>﻿</b></span><span style="font-family: &quot;Times New Roman&quot;; font-size: 16px;" class="heading1 heading2"><b>﻿</b></span><span class="heading1 heading2" style="font-family: &quot;Times New Roman&quot;;">﻿</span></p><p></p><p></p><p></p>
+  - name: DICTIONNAIRE_DICT.S0Q2
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelle est la province de l'enquêté ?﻿</span><span class="instruction">﻿</span></p><p><span class="heading2">﻿Sélectionner le numéro correspondant à la province !</span></p><p><span class="normal heading2">﻿</span><span class="heading2"><br></span><br></p><p></p>
+  - name: DICTIONNAIRE_DICT.S0Q3
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelle est le departement de l'enquêté ?﻿</span><span class="instruction">﻿</span></p><p><span class="heading2">﻿Sélectionner le numéro correspondant&nbsp; au département !</span></p><p></p>
+  - name: DICTIONNAIRE_DICT.S0Q4
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelle est le numéro du ménage de l'enquêté ?﻿</span><span class="instruction">﻿</span></p><p><span class="heading2">﻿Saisir&nbsp; le numéro du ménage !</span></p><p></p>
+  - name: DICTIONNAIRE_DICT.S1Q2
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quel est le nom et le prénom du membre ?﻿</span><span class="instruction">﻿</span></p><p><span class="heading2">﻿Saisir le nom et le prénom du membre !</span></p><p></p>
+  - name: DICTIONNAIRE_DICT.S1Q3
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelle est le lien de&nbsp;</span><font color="#ff0000"><b>~~S1Q2~~</b></font><span class="heading1">&nbsp;</span><span class="heading1">avec le CM ?﻿</span><span class="instruction">﻿</span></p><p><span class="heading2">﻿Sélectionner le lien de parenté du membre&nbsp;</span><span class="heading1"><span class="heading2">avec le CM</span></span><span style="color: rgb(255, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: 14px; font-style: italic;" class="heading2">&nbsp; !</span></p><p></p>
+  - name: DICTIONNAIRE_DICT.S1Q4
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelle est le sexe de&nbsp;</span><font color="#ff0000"><b>~~S1Q2~~</b></font><span class="heading1">?﻿</span><span class="instruction">﻿</span></p><p><span class="heading2">﻿Sélectionner le sexe&nbsp;</span><span class="heading2">du membre</span><span class="heading1"><span class="heading2">&nbsp;</span></span><span class="heading2">!</span></p><p></p>
+  - name: DICTIONNAIRE_DICT.S1Q5
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelle est l'âge de&nbsp;</span><font color="#ff0000"><b>~~S1Q2~~</b></font><span class="heading1">?﻿</span><span class="instruction">﻿</span></p><p><span class="heading2">﻿Sélectionner l'âge&nbsp;</span><span class="heading2">du membre</span><span class="heading1"><span class="heading2">&nbsp;</span></span><span class="heading2">!</span></p><p></p>
+  - name: DICTIONNAIRE_DICT.S1Q6
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelle est la situation matrimoniale de <font color="#ff0000" style="">~~S1Q2~~</font>&nbsp;</span><span style="font-family: monospace;" class="heading1">?</span></p><p><span class="heading2">Sélectionner la situation matrimoniale du membre !</span></p><p></p><p></p>
+  - name: DICTIONNAIRE_DICT.S1Q7
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelle est la religion de&nbsp;</span><font color="#ff0000"><b>~~S1Q2~~</b></font><span class="heading1">?﻿</span><span class="instruction">﻿</span></p><p><span class="heading2">﻿Sélectionner la religion&nbsp;</span><span class="heading2">du membre</span><span class="heading1"><span class="heading2">&nbsp;</span></span><span class="heading2">!</span></p><p></p>
+  - name: DICTIONNAIRE_DICT.S1Q8
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelle est l'ethnie de&nbsp;</span><font color="#ff0000"><b>~~S1Q2~~</b></font><span class="heading1">?﻿</span><span class="instruction">﻿</span></p><p><span class="heading2">﻿Sélectionner l'ethnie&nbsp;</span><span class="heading2">du membre</span><span class="heading2">!</span></p><p></p>
+  - name: DICTIONNAIRE_DICT.S1Q9
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelles sont les langues parlées par&nbsp;</span><b style=""><span class="heading1" style=""><font color="#ff0000">~~S1Q2~~</font>?</span></b></p><p><b style=""><span class="heading1 heading2" style=""><font color="#ff0000">Sélectionner les langues parlées par le membre!</font></span></b><p></p></p>
+  - name: DICTIONNAIRE_DICT.S1Q10
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelles sont les langues principales parlées par&nbsp;</span><b><span class="heading1"><font color="#ff0000"><span class="heading1"><font color="#ff0000">~~S1Q2~~</font></span><span class="heading1"> ?</span></font></span></b></p><p><span class="normal heading2">﻿Sélectionner les langues principales parlées le membre!</span><br></p><p></p><p></p>
+  - name: DICTIONNAIRE_DICT.S2Q1
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quel est le type de logement?</span></p><p><font face="Times New Roman"><b><span class="heading2">Sélectionner le type de logement!</span></b></font><p></p></p>
+  - name: DICTIONNAIRE_DICT.S2Q1_A
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quel&nbsp; est l'autre type de logement?</span></p><p><span class="heading1 heading2"><font color="#ff0000">Préciser l'autre type de logement!</font></span><p></p></p>
+  - name: DICTIONNAIRE_DICT.S2Q2
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quel est le statut d'occupation?</span></p><p><p><span class="heading2">Sélectionner le statut d'occupation!</span></p><p><br></p></p>
+  - name: DICTIONNAIRE_DICT.S2Q2_A
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelle est l'autre statut d'occuption?</span></p><p><p><span class="heading2">Préciser l'autre statut d'occupation!</span></p><p><br></p></p>
+  - name: DICTIONNAIRE_DICT.S2Q3
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quel est le nombre de pieces de la maison?</span></p><p><font face="Times New Roman"><b><span class="heading2">Sélectionner le nombre de pieces de la maison !</span></b></font></p><p></p>
+  - name: DICTIONNAIRE_DICT.S2Q4
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quel est le nombre de chambre?</span></p><p><font face="Times New Roman"><b><span class="heading2">Sélectionner le nombre de chambre!</span></b></font></p><p></p>
+  - name: DICTIONNAIRE_DICT.S2Q5
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelles sont les possessions du ménage?</span></p><p><p><span class="heading1 heading2"><font color="#ff0000">Préciser les possessions du ménage!</font></span></p><p><br></p></p>
+  - name: DICTIONNAIRE_DICT.S3Q1
+    conditions:
+      - questionText:
+          EN: |
+            <p><b><span class="heading1"><font color="#ff0000">~~S1Q2~~ <span class="heading1">à t-il un endroit de lavage des mains?</span></font></span></b></p><p><b><span class="heading1"><font color="#ff0000"><span class="heading1"><br></span></font></span></b><p></p></p>
+  - name: DICTIONNAIRE_DICT.S3Q2
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelles sont les sources d'eau de&nbsp;</span><b><span class="heading1"><font color="#ff0000">~~S1Q2~~<span class="heading1">?</span></font></span></b></p><p><b><span class="heading1"><font color="#ff0000"><span class="heading1 heading2">Sélectionner les sources d'eau du membre!</span></font></span></b><p></p></p>
+  - name: DICTIONNAIRE_DICT.S3Q2_A
+    conditions:
+      - questionText:
+          EN: |
+            <p>Quelles sont les autres sources d'eau de&nbsp;<b><span class="heading1"><font color="#ff0000">~~S1Q2~~<span class="heading1">?</span></font></span></b></p><p><b><span class="heading1"><span class="heading1 heading2"><font color="#ff0000">Sélectionner les autres sources d'eau du membre!</font></span></span></b><p></p></p>
+  - name: DICTIONNAIRE_DICT.S3Q3
+    conditions:
+      - questionText:
+          EN: |
+            <p>Quelles sont les sources d'eau principales pour boire de&nbsp;<b><span class="heading1"><font color="#ff0000">~~S1Q2~~<span class="heading1">?</span></font></span></b></p><p><b><span class="heading1"><span class="heading1 heading2"><font color="#ff0000">Sélectionner les&nbsp; sources d'eau principales pour boire du membre!</font></span></span></b></p><p></p>
+  - name: DICTIONNAIRE_DICT.S3Q4
+    conditions:
+      - questionText:
+          EN: |
+            <p>Quelles sont les sources d'eau principales pour autre besoin de&nbsp;<b><span class="heading1"><font color="#ff0000">~~S1Q2~~<span class="heading1">?</span></font></span></b></p><p><b><span class="heading1"><span class="heading1 heading2"><font color="#ff0000">Sélectionner les&nbsp; sources d'eau principales pour autre besoin du membre!</font></span></span></b></p><p></p>
+  - name: DICTIONNAIRE_DICT.S3Q5
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelles sont les types de toilettes de&nbsp;</span><b><span class="heading1"><font color="#ff0000">~~S1Q2~~?</font></span></b></p><p><b><span class="heading1 heading2"><font color="#ff0000">Sélectionner les types de toilettes du membre!</font></span></b><p></p></p>
+  - name: DICTIONNAIRE_DICT.S3Q5_A
+    conditions:
+      - questionText:
+          EN: |
+            <p><b><span class="heading1"><font color="#ff0000">~~S1Q2~~ <span class="heading1">à t-il d'autre types de toilettes?</span></font></span></b></p><p><b><span class="heading1 heading2"><font color="#ff0000">Sélectionner les autres types de toilettes du ménage!</font></span></b><p></p></p>
+  - name: DICTIONNAIRE_DICT.S3Q6
+    conditions:
+      - questionText:
+          EN: |
+            <b><span class="heading1"><font color="#ff0000">~~S1Q2~~ <span class="heading1">partage t'il ces toilettes avec d'autres personnes?</span></font></span></b><p></p>
+  - name: DICTIONNAIRE_DICT.S4Q1
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelle est la distance de la source d'eau par rapport à la maison?</span></p><p></p><p><span class="heading2">Ecriver la distance par rapport à la maison!</span></p><p><br></p><p></p>
+  - name: DICTIONNAIRE_DICT.S4Q2
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelle est la disponibilité de l'eau?</span></p><p><p><span class="heading2">Ecriver la disponibilité de l'eau en mois!</span></p><p><br></p></p>
+  - name: DICTIONNAIRE_DICT.S4Q3
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quelles sont les types d'usages que&nbsp;</span><b><span class="heading1"><font color="#ff0000">~~S1Q2~~ <span class="heading1">fait de la source d'eau?</span></font></span></b></p><p><b><span class="heading1"><font color="#ff0000"><span class="heading1 heading2">Sélectionner les usages de la source d'eau du membre!</span></font></span></b><p></p></p>
+  - name: DICTIONNAIRE_DICT.S4Q3_A
+    conditions:
+      - questionText:
+          EN: |
+            <p><span class="heading1">Quel est l'autre type d'usage que fait</span>&nbsp;<b><span class="heading1"><font color="#ff0000">~~S1Q2~~ <span class="heading1">de la source d'eau?</span></font></span></b></p><p><b><span class="heading1"><span class="heading1 heading2"><font color="#ff0000">Ecriver l'autre usage!</font></span></span></b><p></p></p>
+...

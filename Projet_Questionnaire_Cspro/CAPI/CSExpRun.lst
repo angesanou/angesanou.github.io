@@ -1,0 +1,26 @@
+﻿Application     C:\Users\HP\AppData\Local\Temp\CSExpRun7296.bch
+Type            BATCH
+Input Data      <<CSPro DB>> C:\Users\HP\Documents\Cspro_2024\CAPI\Data.csdb
+<File>          cspro_export_file_var_f=
+
+Date            Jan 23, 2025
+Start Time      11:03:15
+End Time        11:03:15
+
+CSPro Process Summary
+
+      ╔══════════════════════════════════════════════════════╗
+      ║        12 Records Read   100% of input file          ║
+      ║         0 Ignored:       0 Unknown         0 Erased  ║
+      ║         0 Messages:      0 E      0 W      0 User    ║
+      ╠═════════╦══════════════╦══════════════╦══════════════╣
+      ║  Level  ║  Input Case  ║  Bad Struct  ║  Level Post  ║
+      ╠═════════╬══════════════╬══════════════╬══════════════╣
+      ║      1  ║           2  ║           0  ║           2  ║
+      ╚═════════╩══════════════╩══════════════╩══════════════╝
+
+Process Messages
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

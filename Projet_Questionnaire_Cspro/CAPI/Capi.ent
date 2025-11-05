@@ -1,0 +1,23 @@
+﻿[CSPro Application]
+Version=CSPro 7.7
+Label=CAPI
+Name=CAPI
+AppType=DataEntry
+OperatorID=No
+CAPI=Yes
+CreateListing=No
+CreateLog=No
+ShowErrorMessageNumbers=No
+ComboBoxShowOnlyDiscreteValues=Yes
+ParadataCollection=AllEvents
+ParadataDeviceStateMinutes=5
+[AppCode]
+File=.\Capi.ent.apc
+[Message]
+File=.\Capi.ent.mgf
+[Help]
+File=.\Capi.ent.qsf
+[Forms]
+File=.\Capi.fmf
+[Dictionary Types]
+Dict-Type=.\Dictionnaire.dcf,Input,.\Capi.fmf

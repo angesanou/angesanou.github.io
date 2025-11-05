@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 7.7
+Label=DICTIONNAIRE_DCF
+Name=
+AppType=DataEntry
+[AppCode]
+File=.\Dictionnaire.dcf.ent.apc
+[Message]
+File=.\Dictionnaire.dcf.ent.mgf
+[Help]
+File=.\Dictionnaire.dcf.ent.qsf
+[Forms]
+File=.\Dictionnaire.dcf.fmf

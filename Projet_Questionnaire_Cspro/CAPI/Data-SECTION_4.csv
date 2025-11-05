@@ -1,0 +1,5 @@
+﻿Region de l' enquêté,Province de l' enquêté,Départements de l' enquêté,Numéro du ménage,Code de la source,Libellé de la source,Distance par rapport à la maison,Disponibilité( nombre de mois),Usage,Choix d'usage,Choix d'usage,Choix d'usage,Choix d'usage,Choix d'usage,Choix d'usage,Autre usage
+4,11,90,77,D,Eau de sources,11,11,*,DEFAULT,,,,,,
+4,11,90,77,E,Eau de pluie,4,5,*,DEFAULT,,,,,,
+4,11,90,77,F,Camion citerne,8,5,**,DEFAULT,DEFAULT,,,,,
+3,9,67,456,A,Eau du robinet,0,12,***,DEFAULT,DEFAULT,DEFAULT,,,,

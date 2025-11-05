@@ -1,0 +1,1314 @@
+﻿[Dictionary]
+Version=CSPro 7.7
+Label=Dictionnaire
+Name=DICTIONNAIRE_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+SecurityOptions=77EDA50BB62DB470E4F9EAF8B41414201E54302B3024272512994623B37E0440
+
+[Level]
+Label=Dictionnaire Level
+Name=DICTIONNAIRE_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Region de l' enquêté
+Name=S0Q1
+Start=2
+Len=2
+DataType=Numeric
+ZeroFill=Yes
+
+[ValueSet]
+Label=Region de l' enquêté
+Name=S0Q1_VS
+Value=1;Boucle du Mouhoun
+Value=2;Cascade
+Value=3;Centre
+Value=4;Centre-Est
+Value=5;Centre-Nord
+Value=6;Centre-Ouest
+Value=7;Centre-Sud
+Value=8;Est
+Value=9;Haut-Bassin
+Value=10;Nord
+Value=11;Plateau-Central
+Value=12;Sahel
+Value=13;Sud-Ouest
+
+[Item]
+Label=Province de l' enquêté
+Name=S0Q2
+Start=4
+Len=2
+DataType=Numeric
+ZeroFill=Yes
+
+[ValueSet]
+Label=Provinces de la Boucle du Mouhoun
+Name=S0Q2_VS01
+Value=1;Balé
+Value=2;Banwa
+Value=3;Kossi
+Value=4;Mouhoun
+Value=5;Nayala
+Value=6;Sourou
+
+[ValueSet]
+Label=Provinces des Cascades
+Name=S0Q2_VS02
+Value=7;Comoé
+Value=8;Léraba
+
+[ValueSet]
+Label=Provinces du Centre
+Name=S0Q2_VS03
+Value=9;Kadiogo
+
+[ValueSet]
+Label=Provinces  du Centre-Est
+Name=S0Q2_VS04
+Value=10;Boulgou
+Value=11;Kouritenga
+Value=12;Koulpélogo
+
+[ValueSet]
+Label=Provinces du Centre-Nord
+Name=S0Q2_VS05
+Value=13;Bam
+Value=14;Namentenga
+Value=15;Sanmentenga
+
+[ValueSet]
+Label=Provinces du Centre-Ouest
+Name=S0Q2_VS06
+Value=16;Boulkièmdé
+Value=17;Sanguié
+Value=18;Sissili
+Value=19;Ziro
+
+[ValueSet]
+Label=Provinces du Centre-Sud
+Name=S0Q2_VS07
+Value=20;Bazèga
+Value=21;Zoundweogo
+Value=22;Nahouri
+
+[ValueSet]
+Label=Provinces de L'Est
+Name=S0Q2_VS08
+Value=23;Gourma
+Value=24;Gnagna
+Value=25;Komandjari
+Value=26;Kompienga
+Value=27;Tapoa
+
+[ValueSet]
+Label=Provinces des Haut-Bassins
+Name=S0Q2_VS09
+Value=28;Houet
+Value=29;Kénédougou
+Value=30;Tuy
+
+[ValueSet]
+Label=Provinces du Nord
+Name=S0Q2_VS10
+Value=31;Lorum
+Value=32;Passoré
+Value=33;Yatenga
+Value=34;Zandoma
+
+[ValueSet]
+Label=Provinces du Plateau Central
+Name=S0Q2_VS11
+Value=35;Ganzourgou
+Value=36;Kourwéogo
+Value=37;Oubritenga
+
+[ValueSet]
+Label=Provinces du Sahel
+Name=S0Q2_VS12
+Value=38;Oudalan
+Value=39;Séno
+Value=40;Soum
+Value=41;Yagha
+
+[ValueSet]
+Label=Provinces du Sud-Ouest
+Name=S0Q2_VS13
+Value=42;Bougouriba
+Value=43;Ioba
+Value=44;Noumbiel
+Value=45;Poni
+
+[Item]
+Label=Départements de l' enquêté
+Name=S0Q3
+Start=6
+Len=3
+DataType=Numeric
+ZeroFill=Yes
+
+[ValueSet]
+Label=Départements de Balé
+Name=S0Q3_VS01
+Value=1;Bagassi
+Value=2;Bana
+Value=3;Boromo
+Value=4;Fara
+Value=5;Oury
+Value=6;Pâ
+Value=7;Pompoie
+Value=8;Poura
+Value=9;Sibi
+Value=10;Yaho
+
+[ValueSet]
+Label=Départements de Banwa
+Name=S0Q3_VS02
+Value=11;Balavé
+Value=12;Kouka
+Value=13;Sami
+Value=14;Sanaba
+Value=15;Solenzo
+Value=16;Tansila
+
+[ValueSet]
+Label=Départements de Kossi
+Name=S0Q3_VS03
+Value=17;Barani
+Value=18;Bomborokuy
+Value=19;Bourasso
+Value=20;Djibasso
+Value=21;Dokuy
+Value=22;Doumbala
+Value=23;Kombori
+Value=24;Madouba
+Value=25;Nouna
+Value=26;Sono
+
+[ValueSet]
+Label=Départements du Mouhoun
+Name=S0Q3_VS04
+Value=27;Bondoukuy
+Value=28;Dédougou
+Value=29;Douroula
+Value=30;Kona
+Value=31;Ouarkoye
+Value=32;Safané
+Value=33;Tchériba
+
+[ValueSet]
+Label=Départements de Nayala
+Name=S0Q3_VS05
+Value=34;Gassan
+Value=35;Gossina
+Value=36;Kougny
+Value=37;Toma
+Value=38;Yaba
+Value=39;Yé
+
+[ValueSet]
+Label=Département de Sourou
+Name=S0Q3_VS06
+Value=40;Di
+Value=41;Gomboro
+Value=42;Kassoum
+Value=43;Kiembara
+Value=44;Lanfiéra
+Value=45;Lankoué
+Value=46;Toéni
+Value=47;Tougan
+
+[ValueSet]
+Label=Départements de la comoé
+Name=S0Q3_VS07
+Value=48;Banfora
+Value=49;Bérégadougou
+Value=50;Mangodara
+Value=51;Moussodougou
+Value=52;Niangoloko
+Value=53;Ouo
+Value=54;Sidéradougou
+Value=55;Soubakaniedougou
+Value=56;Tiefora
+
+[ValueSet]
+Label=Département de la Léraba
+Name=S0Q3_VS08
+Value=57;Dakoro
+Value=58;Douna
+Value=59;Kankalaba
+Value=60;Loumana
+Value=61;Niankorodougou
+Value=62;Oueleni
+Value=63;Sindou
+Value=64;Wolonkoto
+
+[ValueSet]
+Label=Départements de Kadiogo
+Name=S0Q3_VS09
+Value=65;Komki-Ipala
+Value=66;Komsilga
+Value=67;Koubri
+Value=68;Pabré
+Value=69;Saaba
+Value=70;Tanghin-Dassouri
+
+[ValueSet]
+Label=Départements de Boulgou
+Name=S0Q3_VS10
+Value=71;Bagré
+Value=72;Bané
+Value=73;Béguédo
+Value=74;Bissiga
+Value=75;Bittou
+Value=76;Boussouma
+Value=77;Garango
+Value=78;Komtoèga
+Value=79;Niaogho
+Value=80;Tenkodogo
+Value=81;Zabré
+Value=82;Zoaga
+Value=83;Zonsé
+
+[ValueSet]
+Label=Départements de Kouritenga
+Name=S0Q3_VS11
+Value=84;Comin-Yanga
+Value=85;Dourtenga
+Value=86;Lalgaye
+Value=87;Ouargaye
+Value=88;Sangha
+Value=89;Soudougui
+Value=90;Yargatenga
+Value=91;Yondé
+
+[ValueSet]
+Label=Départements de Koulpéogo
+Name=S0Q3_VS12
+Value=92;Amdentenga
+Value=93;Baskouré
+Value=94;Dialgaye
+Value=95;Gounghin
+Value=96;Kando
+Value=97;Koupéla
+Value=98;Pouytenga
+Value=99;Tensobentenga
+Value=100;Yargo
+
+[ValueSet]
+Label=Départements de Bam
+Name=S0Q3_VS13
+Value=101;Bourzanga
+Value=102;Guibaré
+Value=103;Kongoussi
+Value=104;Nasséré
+Value=105;Tikaré
+Value=106;Sabcé
+Value=107;Rollo
+Value=108;Rouko
+Value=109;Zimtanga
+
+[ValueSet]
+Label=Départements de Namentenga
+Name=S0Q3_VS14
+Value=110;Boala
+Value=111;Boulsa
+Value=112;Bouroum
+Value=113;Dargo
+Value=114;Nagbingou
+Value=115;Tougouri
+Value=116;Yalgo
+Value=117;Zéguédéguin
+
+[ValueSet]
+Label=Départements de Samentenga
+Name=S0Q3_VS15
+Value=118;Barsalogho
+Value=119;Boussouma
+Value=120;Dablo
+Value=121;Kaya
+Value=122;Korsimoro
+Value=123;Mané
+Value=124;Namissiguima
+Value=125;Pensa
+Value=126;Pibaoré
+Value=127;Pissila
+Value=128;Ziga
+
+[ValueSet]
+Label=Départements de Boulkièmdé
+Name=S0Q3_VS16
+Value=129;Bingo
+Value=130;Imasgo
+Value=131;Kindi
+Value=132;Kokologo
+Value=133;Koudougou
+Value=134;Nandala
+Value=135;Nanoro
+Value=136;Pella
+Value=137;Poa
+Value=138;Ramongo
+Value=139;Sabou
+Value=140;Siglé
+Value=141;Soaw
+Value=142;Sourgou
+Value=143;Thyou
+
+[ValueSet]
+Label=Départements de Sanguié
+Name=S0Q3_VS17
+Value=144;Dassa
+Value=145;Didyr
+Value=146;Godyr
+Value=147;Kordié
+Value=148;Kyon
+Value=149;Pouni
+Value=150;Réo
+Value=151;Ténado
+Value=152;Zamo
+Value=153;Zawara
+
+[ValueSet]
+Label=Départements de Sissili
+Name=S0Q3_VS18
+Value=154;Biéha
+Value=155;Boura
+Value=156;Léo
+Value=157;Nebiélianayou
+Value=158;Niambouri
+Value=159;Silly
+Value=160;Tô
+
+[ValueSet]
+Label=Départements de Ziro
+Name=S0Q3_VS19
+Value=161;Bakata
+Value=162;Bougnounou
+Value=163;Cassou
+Value=164;Dalo
+Value=165;Gao
+Value=166;Sapouy
+
+[ValueSet]
+Label=Départements de Bazoga
+Name=S0Q3_VS20
+Value=167;Doulougou
+Value=168;Gaongo
+Value=169;Ipelcé
+Value=170;Kayao
+Value=171;Kombissiri
+Value=172;Saponé
+Value=173;Toécé
+
+[ValueSet]
+Label=Départements de Zoundweogo
+Name=S0Q3_VS21
+Value=174;Guiaro
+Value=175;Pô
+Value=176;Tiébélé
+Value=177;Zecco
+Value=178;Ziou
+
+[ValueSet]
+Label=Départements de Nahouri
+Name=S0Q3_VS22
+Value=179;Béré
+Value=180;Bindé
+Value=181;Gogo
+Value=182;Guiba
+Value=183;Gomboussougou
+Value=184;Manga
+Value=185;Nobéré
+
+[ValueSet]
+Label=Départements de Gourma
+Name=S0Q3_VS23
+Value=186;Bilanga
+Value=187;Bogandé
+Value=188;Coalla
+Value=189;Liptougou
+Value=190;Mani
+Value=191;Piéla
+Value=192;Thion
+
+[ValueSet]
+Label=Départements de Gnagna
+Name=S0Q3_VS24
+Value=193;Diabo
+Value=194;Diapangou
+Value=195;Fada
+Value=196;N'gourma
+Value=197;Matiacoali
+Value=198;Tibga
+Value=199;Yamba
+
+[ValueSet]
+Label=Départements de Komandjari
+Name=S0Q3_VS25
+Value=200;Batiébougou
+Value=201;Foutouri
+Value=202;Gayéri
+
+[ValueSet]
+Label=Départements de Kompienga
+Name=S0Q3_VS26
+Value=203;Kompienga
+Value=204;Madjoari
+Value=205;Pama
+
+[ValueSet]
+Label=Départements de Tapoa
+Name=S0Q3_VS27
+Value=206;Botou
+Value=207;Diapaga
+Value=208;Kantchari
+Value=209;Logobou
+Value=210;Namounou
+Value=211;Partiaga
+Value=212;Tambaga
+Value=213;Tansarga
+
+[ValueSet]
+Label=Départements de Houet
+Name=S0Q3_VS28
+Value=214;Bama
+Value=215;Bobo-Dioulasso
+Value=216;Dande
+Value=217;Faramana
+Value=218;Fo
+Value=219;Karangasso-Sambla
+Value=220;Karangasso-Vigue
+Value=221;Koundougou
+Value=222;Lena
+Value=223;Padema
+Value=224;Peni
+Value=225;Satiri
+Value=226;Toussiana
+
+[ValueSet]
+Label=Départements de Kénedougou
+Name=S0Q3_VS29
+Value=227;Banzon
+Value=228;Djigouéra
+Value=229;Kangala
+Value=230;Kayan
+Value=231;Koloko
+Value=232;Kourignon
+Value=233;Kourouma
+Value=234;Morolaba
+Value=235;N'dorola
+Value=236;Orodara
+Value=237;Samogohiri
+Value=238;Samorogouan
+Value=239;Sindo
+
+[ValueSet]
+Label=Départements de Tuy
+Name=S0Q3_VS30
+Value=240;Bekuy
+Value=241;Béréba
+Value=242;Boni
+Value=243;Founzan
+Value=244;Houndé
+Value=245;Koti
+Value=246;Koumbia
+
+[ValueSet]
+Label=Départements de Lorum
+Name=S0Q3_VS31
+Value=247;Banh
+Value=248;Ouidigui
+Value=249;Titao
+Value=250;Sollé
+
+[ValueSet]
+Label=Départements de Passoré
+Name=S0Q3_VS32
+Value=251;Arbolé
+Value=252;Bagaré
+Value=253;Bokin
+Value=254;Gomponsom
+Value=255;Kirsi
+Value=256;Lâ-Todin
+Value=257;Pilimpikou
+Value=258;Samba
+Value=259;Yako
+
+[ValueSet]
+Label=Départements de Yatenga
+Name=S0Q3_VS33
+Value=260;Barga
+Value=261;Kain
+Value=262;Kalsaga
+Value=263;Kossouka
+Value=264;Koumbri
+Value=265;Namissiguima
+Value=266;Oula
+Value=267;Ouahigouya
+Value=268;Rambo
+Value=269;Séguénéga
+Value=270;Tangaye
+Value=271;Thiou
+Value=272;Zogoré
+
+[ValueSet]
+Label=Départements de Zandoma
+Name=S0Q3_VS34
+Value=273;Bassi
+Value=274;Boussou
+Value=275;Gourcy
+Value=276;Léba
+Value=277;Tougo
+
+[ValueSet]
+Label=Départements de Ganzourgou
+Name=S0Q3_VS35
+Value=278;Boudry
+Value=279;Kogo
+Value=280;Méguet
+Value=281;Mogtédo
+Value=282;Salogo
+Value=283;Zam
+Value=284;Zorgho
+Value=285;Zoungou
+
+[ValueSet]
+Label=Départements de Kourwéogo
+Name=S0Q3_VS36
+Value=286;Boussé
+Value=287;Laye
+Value=288;Niou
+Value=289;Sourgoubila
+Value=290;Toèghin
+
+[ValueSet]
+Label=Départements de Oubritenga
+Name=S0Q3_VS37
+Value=291;Absouya
+Value=292;Dapélogo
+Value=293;Loumbila
+Value=294;Nagréongo
+Value=295;Ourgou-Manega
+Value=296;Ziniaré
+Value=297;Zitenga
+
+[ValueSet]
+Label=Départements de Oudalan
+Name=S0Q3_VS38
+Value=298;Déou
+Value=299;Gorom
+Value=300;Gorom
+Value=301;Markoye
+Value=302;Oursi
+Value=303;Tin-akoff
+
+[ValueSet]
+Label=Départements de Séno
+Name=S0Q3_VS39
+Value=304;Bani
+Value=305;Dori
+Value=306;Falangountou
+Value=307;Gorgadji
+Value=308;Sampelga
+Value=309;Seytenga
+
+[ValueSet]
+Label=Départements de Soum
+Name=S0Q3_VS40
+Value=310;Arbinda
+Value=311;Baraboulé
+Value=312;Djibo
+Value=313;Djiguel
+Value=314;Kelbo
+Value=315;Koutougou
+Value=316;Nassoumbou
+Value=317;Pobé-Mengao
+Value=318;Tongomayel
+
+[ValueSet]
+Label=Départements de Yargha
+Name=S0Q3_VS41
+Value=319;Boundoré
+Value=320;Mansila
+Value=321;Sébba
+Value=322;Solhan
+Value=323;Tankougounadié
+Value=324;Titabé
+
+[ValueSet]
+Label=Départements de Bougouriba
+Name=S0Q3_VS42
+Value=325;Bondigui
+Value=326;Diébougou
+Value=327;Dolo
+Value=328;Iolonioro
+Value=329;Tiankoura
+
+[ValueSet]
+Label=Départements de Ioba
+Name=S0Q3_VS43
+Value=330;Dano
+Value=331;Dissin
+Value=332;Guégueré
+Value=333;Koper
+Value=334;Niégo
+Value=335;Oronkua
+Value=336;Ouessa
+Value=337;Zambo
+
+[ValueSet]
+Label=Départements de Noumbiel
+Name=S0Q3_VS44
+Value=338;Batié
+Value=339;Boussoukoula
+Value=340;Kpueré
+Value=341;Legmoin
+Value=342;Midébdo
+
+[ValueSet]
+Label=Départements de Poni
+Name=S0Q3_VS45
+Value=343;Boussera
+Value=344;Bouroum-Bouroum
+Value=345;Djigoué
+Value=346;Gaoua
+Value=347;Gbomblora
+Value=348;Kampti
+Value=349;Loropéni
+Value=350;Malba
+Value=351;Nako
+Value=352;Périgban
+
+[Item]
+Label=Numéro du ménage
+Name=S0Q4
+Start=9
+Len=5
+DataType=Numeric
+ZeroFill=Yes
+
+[Record]
+Label=Identification
+Name=SECTION_0
+RecordTypeValue='1'
+RecordLen=39
+
+[Item]
+Label=Date d'interview
+Name=S0Q5
+Start=14
+Len=10
+DataType=Alpha
+
+[Item]
+Label=Heure de début d'interview
+Name=S0Q6
+Start=24
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Heure de fin d'interview
+Name=S0Q7
+Start=32
+Len=8
+DataType=Alpha
+
+[Record]
+Label=Membres du ménage
+Name=SECTION_1
+RecordTypeValue='2'
+MaxRecords=25
+RecordLen=45
+
+[Item]
+Label=Numéro du membre de ménage
+Name=S1Q1
+Start=14
+Len=2
+DataType=Numeric
+ZeroFill=Yes
+
+[Item]
+Label=Noms et prénoms
+Name=S1Q2
+Start=16
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Lien avec le CM
+Name=S1Q3
+Start=36
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Lien avec le CM
+Name=S1Q3_VS1
+Value=1; CM
+Value=2;Conjoint(e) du CM
+Value=3;Fils/Fille du CM
+Value=4;Frère/Soeur du CM
+Value=5;Parent(e) du CM
+Value=6;Aucun lien
+Value=7;Autre (à préciser)
+
+[Item]
+Label=Sexe du membre
+Name=S1Q4
+Start=37
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Sexe du membre
+Name=S1Q4_VS1
+Value=0;Masculin
+Value=1;Féminin
+
+[Item]
+Label=Âge du répondant
+Name=S1Q5
+Start=38
+Len=2
+DataType=Numeric
+
+[Item]
+Label=Situation matrimoniale
+Name=S1Q6
+Start=40
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Situation matrimoniale
+Name=S1Q6_VS1
+Value=1;Célibataire
+Value=2;Marié(e) monogame
+Value=3;Marié(e) polygame
+Value=4;Union libre
+Value=5;Divorcé
+Value=6;Veuf(ve)
+Value=7;Autre à préciser
+
+[Item]
+Label=Religion du membre
+Name=S1Q7
+Start=41
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Religion du membre
+Name=S1Q7_VS1
+Value=1;Islam
+Value=2;Catholicisme
+Value=3;Protestantisme
+Value=4;Animiste
+Value=5;Athéisme
+Value=6;Autres (à préciser)
+
+[Item]
+Label=Ethnie du membre
+Name=S1Q8
+Start=42
+Len=2
+DataType=Numeric
+
+[ValueSet]
+Label=Ethnie du membre
+Name=S1Q8_VS1
+Value=1;Mossi
+Value=2;Peulh
+Value=3;Bobo
+Value=4;Samo
+Value=5;Bissa
+Value=6;Gourmantché
+Value=7;Gourounssi
+Value=8;Dagara
+Value=9;Lobi
+Value=10;Sénoufo
+Value=11;Bwaba
+Value=12;Autre à préciser
+
+[Item]
+Label=Langues parlées par le membre
+Name=S1Q9
+Start=44
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Langues parlées par le membre
+Name=S1Q9_VS1
+Value=1;Français
+Value=2;Anglais
+Value=3;Moore
+Value=4;Fulfudé
+Value=5;Dioula
+Value=6;Autre Langues nationales(à préciser)
+Value=7;Autre Langues africaines (à préciser)
+Value=8;Autre Langues internationales(à préciser)
+
+[Item]
+Label=Langue principale parlée
+Name=S1Q10
+Start=45
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Langue principale parlée
+Name=S1Q10_VS1
+Value=1;Français
+Value=2;Anglais
+Value=3;Moore
+Value=4;Fulfudé
+Value=5;Dioula
+Value=6;Autre Langues nationales(à préciser)
+Value=7;Autre Langues africaines (à préciser)
+Value=8;Autre Langues internationales(à préciser)
+
+[Record]
+Label=Caratéristique du ménage
+Name=SECTION_2
+RecordTypeValue='3'
+RecordLen=56
+
+[Item]
+Label=Type de logement
+Name=S2Q1
+Start=14
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Type de logement
+Name=S2Q1_VS1
+Value=1;Maison individuelle simple
+Value=2;Celibatérium
+Value=3;Appartement
+Value=4;Villa
+Value=5;Autre(à préciser)
+
+[Item]
+Label=Autre type de logement
+Name=S2Q1_A
+Start=15
+Len=1
+DataType=Alpha
+
+[Item]
+Label=Statut d'occupation
+Name=S2Q2
+Start=16
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Statut d'occupation
+Name=S2Q2_VS1
+Value=1;Propriétaire
+Value=2;Locataire
+Value=3;Logé par un tiers
+Value=4;Autre (à préciser)
+
+[Item]
+Label=Autre statut d'occupation
+Name=S2Q2_A
+Start=17
+Len=1
+DataType=Alpha
+
+[Item]
+Label=Nombre de pièces de la maison
+Name=S2Q3
+Start=18
+Len=2
+DataType=Numeric
+
+[Item]
+Label=Nombre de chambres
+Name=S2Q4
+Start=20
+Len=2
+DataType=Numeric
+
+[Item]
+Label=Possession du ménage
+Name=S2Q5
+Start=22
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=Possession du ménage
+Name=S2Q5_VS1
+Value='A         ';Télévision
+Value='B         ';Radio
+Value='C         ';Téléphone
+Value='D         ';Réfrigirateur
+Value='E         ';Ordinateur
+Value='F         ';Vélo
+Value='G         ';Moto
+Value='H         ';Voiture
+Value='I         ';Autre
+Value='J         ';Aucun
+
+[Item]
+Label=choix du bien
+Name=S2Q5_CHOIX
+Start=22
+Len=1
+ItemType=SubItem
+DataType=Numeric
+Occurrences=10
+
+[Item]
+Label=Possession de télévision
+Name=S2Q5_A
+Start=32
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Possession de télévision
+Name=S2Q5_A_VS1
+Value=1;OUI
+Value=0;NON
+
+[Item]
+Label=Possession de radio
+Name=S2Q5_B
+Start=33
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Possession de radio
+Name=S2Q5_B_VS1
+Value=1;OUI
+Value=0;NON
+
+[Item]
+Label=Possession de téléphone
+Name=S2Q5_C
+Start=34
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Possession de téléphone
+Name=S2Q5_C_VS1
+Value=1;OUI
+Value=0;NON
+
+[Item]
+Label=Possession de Réfrigirateur
+Name=S2Q5_D
+Start=35
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Possession de Réfrigirateur
+Name=S2Q5_D_VS1
+Value=1;OUI
+Value=0;NON
+
+[Item]
+Label=Possession de ordinateurs
+Name=S2Q5_E
+Start=36
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Possession de ordinateurs
+Name=S2Q5_E_VS1
+Value=1;OUI
+Value=0;NON
+
+[Item]
+Label=Possession de Vélo
+Name=S2Q5_F
+Start=37
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Possession de Vélo
+Name=S2Q5_F_VS1
+Value=1;OUI
+Value=0;NON
+
+[Item]
+Label=Possession de Moto
+Name=S2Q5_G
+Start=38
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Possession de Moto
+Name=S2Q5_G_VS1
+Value=1;OUI
+Value=0;NON
+
+[Item]
+Label=Possession de voiture
+Name=S2Q5_H
+Start=39
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Possession de voiture
+Name=S2Q5_H_VS1
+Value=1;OUI
+Value=0;NON
+
+[Item]
+Label=Autre possesion
+Name=S2Q5_I
+Start=40
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Autre possesion
+Name=S2Q5_I_VS1
+Value=1;OUI
+Value=0;NON
+
+[Item]
+Label=possession d'aucun biens
+Name=S2Q5_J
+Start=41
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=possession d'aucun biens
+Name=S2Q5_J_VS1
+Value=1;OUI
+Value=0;NON
+
+[Item]
+Label=Préciser les autres biens
+Name=S2Q5_AUTRE
+Start=42
+Len=15
+DataType=Alpha
+
+[Record]
+Label=Eau et assainissement
+Name=SECTION_3
+RecordTypeValue='4'
+RecordLen=54
+
+[Item]
+Label=Endroit de lavage des mains
+Name=S3Q1
+Start=14
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Endroit de lavage des mains
+Name=S3Q1_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=Sources d'eau du ménage
+Name=S3Q2
+Start=15
+Len=11
+DataType=Alpha
+
+[ValueSet]
+Label=Sources d'eau du ménage
+Name=S3Q2_VS1
+Value='A          ';Eau du robinet
+Value='B          ';Puits à pompe/forage
+Value='C          ';Puits creusé
+Value='D          ';Eau de sources
+Value='E          ';Eau de pluie
+Value='F          ';Camion citerne
+Value='G          ';Charette avec pétit citerne
+Value='H          ';Eau de surface
+Value='I          ';Eau de bouteille
+Value='J          ';Eau en sachet
+Value='K          ';Autre(à préciser)
+
+[Item]
+Label=Choix de la source d'eau
+Name=S3Q2_CHOIX
+Start=15
+Len=1
+ItemType=SubItem
+DataType=Numeric
+Occurrences=11
+
+[Item]
+Label=Autre sources
+Name=S3Q2_A
+Start=26
+Len=10
+DataType=Alpha
+
+[Item]
+Label=Source d'eau principale pour boire
+Name=S3Q3
+Start=36
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Source d'eau principale pour boire
+Name=S3Q3_VS1
+Value='A';Eau du robinet
+Value='B';Puits à pompe/forage
+Value='C';Puits creusé
+Value='D';Eau de sources
+Value='E';Eau de pluie
+Value='F';Camion citerne
+Value='G';Charette avec pétit citerne
+Value='H';Eau de surface
+Value='I';Eau de bouteille
+Value='J';Eau en sachet
+Value='K';Autre(à préciser)
+
+[Item]
+Label=Source d'eau principale pour autres besoins
+Name=S3Q4
+Start=37
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Source d'eau principale pour autres besoins
+Name=S3Q4_VS1
+Value='A';Eau du robinet
+Value='B';Puits à pompe/forage
+Value='C';Puits creusé
+Value='D';Eau de sources
+Value='E';Eau de pluie
+Value='F';Camion citerne
+Value='G';Charette avec pétit citerne
+Value='H';Eau de surface
+Value='I';Eau de bouteille
+Value='J';Eau en sachet
+Value='K';Autre(à préciser)
+
+[Item]
+Label=Type de toilette
+Name=S3Q5
+Start=38
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Type de toilette
+Name=S3Q5_VS1
+Value=1;Latrines à fosse
+Value=2;Fosse septique
+Value=3;Système d'égout
+Value=4;Buisson/nature
+Value=5;Autre (à préciser)
+
+[Item]
+Label=Autre type de toilette
+Name=S3Q5_A
+Start=39
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Partagez vous ces toilettes avec d'autres ménages ou le public?
+Name=S3Q6
+Start=54
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Partagez vous ces toilettes avec d'autres ménages ou le public?
+Name=S3Q6_VS1
+Value=1;OUI
+Value=2;NON
+
+[Record]
+Label=Caractérisque des sources
+Name=SECTION_4
+RecordTypeValue='5'
+MaxRecords=11
+RecordLen=64
+
+[Item]
+Label=Code de la source
+Name=S4Q0_A
+Start=14
+Len=1
+DataType=Alpha
+
+[Item]
+Label=Libellé de la source
+Name=S4Q0_B
+Start=15
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Distance par rapport à la maison
+Name=S4Q1
+Start=40
+Len=2
+DataType=Numeric
+
+[Item]
+Label=Disponibilité( nombre de mois)
+Name=S4Q2
+Start=42
+Len=2
+DataType=Numeric
+
+[Item]
+Label=Usage
+Name=S4Q3
+Start=44
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=Usage
+Name=S4Q3_VS1
+Value='A     ';Boire
+Value='B     ';Cuisiner
+Value='C     ';Lavage
+Value='D     ';Agriculture
+Value='E     ';Elevage
+Value='F     ';Autre
+
+[Item]
+Label=Choix d'usage
+Name=S4Q3_CHOIX
+Start=44
+Len=1
+ItemType=SubItem
+DataType=Numeric
+Occurrences=6
+
+[Item]
+Label=Autre usage
+Name=S4Q3_A
+Start=50
+Len=15
+DataType=Alpha
